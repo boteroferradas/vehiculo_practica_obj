@@ -108,3 +108,5 @@ class CocheAutonomo(Terrestre):
 
 coche = Vehiculo("3456ABC",120,100)
 print(coche)
+coche2 = Vehiculo("3456ABC",120,100)
+print(coche2)
